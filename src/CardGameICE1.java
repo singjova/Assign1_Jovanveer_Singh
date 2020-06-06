@@ -6,9 +6,7 @@ package cardgameice1;
 
 /**
  *
- * @author srinivsi
- print 7 cards (values,suits) and takes input 
- then prints if matching card is found in an array
+ * @UTHOR Jovnaveer Singh
  */
 import java.util.Scanner;
 public class CardGameICE1
